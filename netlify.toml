@@ -11,7 +11,7 @@
   force = true
 
 [template.environment]
-  ACKEE_MONGODB = mongodb+srv://dainja:<password>@cluster-nattfotboll.llb7q.mongodb.net/test
+  ACKEE_MONGODB = "ACKEE_MONGODB"
   ACKEE_USERNAME = "ACKEE_USERNAME"
   ACKEE_PASSWORD = "ACKEE_PASSWORD"
   ACKEE_ALLOW_ORIGIN = "ACKEE_ALLOW_ORIGIN"
